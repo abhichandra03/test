@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhishek Chandra
-Skills: HTML, CSS, JS, TS, React.js
-Email: abhichandra03@gmail.com
-{{/user}}
